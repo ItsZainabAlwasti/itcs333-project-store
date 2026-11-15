@@ -3,11 +3,11 @@
 ## Members & module allocation
 | Student ID | Name | Module(s) owned |
 |---|---|---|
-| 20XXXXXX |  | m1_auth |
-| 20XXXXXX |  | m2_catalog |
-| 20XXXXXX |  | m3_cart |
-| 202310702 |Zahraa Yaser Mohammed| m4_orders |
-| 20XXXXXX |  | m5_admin |
+| 202208708 |BUDOOR WALEED ALMASAADI  | m1_auth    |
+| 202310702 |Zahraa Yaser Mohammed    | m2_catalog |
+| 202405300 |FATIMA ABDULNABI MAHDI   | m3_cart    |
+| 202402797 |ZAINAB MOHAMED S. ALWASTI| m4_orders  |
+| 202305120 |FATEMA ALI MOHAMED       | m5_admin   |
 
 ## Weekly contribution log (optional)
 | Week | Student | What I did (module, files, PRs) |
