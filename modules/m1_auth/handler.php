@@ -8,7 +8,7 @@ declare(strict_types=1);
  * Use db() from src/db.php and the helpers in src/http.php.
  */
 
-$rest = $GLOBALS['__route']['rest'] ?? '';
+$rest = ltrim($GLOBALS['__route']['rest'] ?? '', '/');
 
 // TODO: implement your module's endpoints here (see contracts/).
 if ($rest === 'register' && http_method() === 'POST') {
